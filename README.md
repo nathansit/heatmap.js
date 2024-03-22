@@ -29,6 +29,7 @@ heatmap.js is also hosted on npm:
 Start a webserver (e.g. python SimpleHTTPServer from the project directory root):
 
 `python -m SimpleHTTPServer 1337 &`
+Note: If this command fails, ensure that you are using python2 and not python3. You can use pyenv to control that.
 
 Then browse to 
 
